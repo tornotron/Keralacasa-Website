@@ -1,0 +1,12 @@
+/*
+!README.md
+!.gitignore
+!.github
+!wp-content
+wp-content/*
+!wp-content/themes
+wp-content/themes/*
+!/wp-content/themes/torno-child
+!/wp-content/themes/torno-child/*
+!/wp-content/themes/torno-plugin
+!/wp-content/themes/torno-plugin/*

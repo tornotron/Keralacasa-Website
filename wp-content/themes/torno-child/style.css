@@ -1,0 +1,19 @@
+/**
+Theme Name: Torno Child
+Author: Tornotron
+Author URI: https://tronotron.com
+Description: Tornotron Child Theme to be used with Tornotron basic theme. Built for speed, SEO, and best user experience. 
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: torno-child
+Template: astra
+*/
+
+#custom-badge {
+    height: 100px;
+    width: 100px;
+    right: 0%;
+    position: absolute;
+    z-index: 50;
+}
